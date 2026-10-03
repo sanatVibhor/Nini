@@ -1,0 +1,4 @@
+# build leftovers (the finished app is copied into site/Nini.exe)
+build_out/
+__pycache__/
+*.spec
